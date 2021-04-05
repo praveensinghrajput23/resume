@@ -692,8 +692,8 @@ section {
 
 @media screen and (max-width: 767px){
   .center{
-  margin: auto;
-  width: auto;
+  margin: 0 auto;
+  width: 80%;
 }
 }
 
